@@ -39,8 +39,6 @@ Interactive dashboards visualizing gender metrics
 Insights on critical pay equity issues
 Actionable recommendations for HR and executive teams
 
-### Analyzed data
-
 ### Key Insights
 1. **Gender Distribution Disparity**
 -Male employees significantly outnumber female employees across all three regions.
